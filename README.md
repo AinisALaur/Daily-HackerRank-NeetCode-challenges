@@ -24,50 +24,98 @@ to establish syntax knowledge, deepen critical thinking and problem-solving skil
 
 
 ## Challenge 1
+**Find the Smallest Missing Positive Integer**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/find-smallest-missing-positive-integer/problem
 
 ## Challenge 2
+**Check for Non-Identical String Rotation**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-non-identical-string-rotation/problem
 
 ## Challenge 3
+**Target Index Search**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lookup-with-binary-search/problem
 
 ## Challenge 4
+**Find First Occurrence**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/first-occurrence-in-event-code-log/problem
 
 ## Challenge 5
+**Maximum Number of Non-Overlapping Intervals**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/maximum-non-overlapping-intervals/problem
 
 ## Challenge 6
+**Validate Properly Nested Brackets**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/validate-properly-nested-brackets/problem
 
 ## Challenge 7
+**Min-Tracking Stack Implementation**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/min-tracking-stack/problem
 
 ## Challenge 8
+**One-Pass Removal of k-th Node from End**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/one-pass-removal-kth-from-end/problem
 
 ## Challenge 9
+**Count Number Pairs**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/count-number-pairs/problem
 
 ## Challenge 10
+**Remove Consecutive Duplicates from Sorted Linked List**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/remove-consecutive-duplicates-sorted-list/problem
 
 ## Challenge 11
+**Generate Valid Angle Bracket Sequences**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/generate-valid-angle-bracket-sequences/problem
 
 ## Challenge 12
+**Remove Elements Within K Distance**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/remove-elements-within-k-distance/problem
 
 ## Challenge 13
+**Two Sum**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/time-slot-task-pairing/problem
 
 ## Challenge 14
+**Check Valid Anagram**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/check-valid-anagram/problem
 
 ## Challenge 15
+**Lexicographical Letter Combinations of Phone Digits**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lexicographical-letter-combinations-phone-digits/problem
 
 ## Challenge 16
+**Place N Cameras Without Conflict on Blocked Grid**
+
+
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/place-n-cameras-no-conflict-blocked-grid/problem
 
