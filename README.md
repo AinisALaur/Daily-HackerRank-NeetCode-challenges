@@ -22,6 +22,8 @@ to establish syntax knowledge, deepen critical thinking and problem-solving skil
 - [Check Valid Anagram](#challenge-14)
 - [Lexicographical Letter Combinations of Phone Digits](#challenge-15)
 - [Place N Cameras Without Conflict on Blocked Grid](#challenge-16)
+- [Custom Fibonacci Sequence](#challenge-17)
+- [Ways to Fill Slots with Single or Double Coverage](#challenge-18)
 
 
 ## Challenge 1
@@ -119,4 +121,15 @@ https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/lexico
 
 
 https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/place-n-cameras-no-conflict-blocked-grid/problem
+
+## Challenge 17
+**Custom Fibonacci Sequence**
+
+
+https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/place-n-cameras-no-conflict-blocked-grid/problem
+
+## Challenge 18
+**Ways to Fill Slots with Single or Double Coverage**
+
+https://www.hackerrank.com/contests/software-engineer-prep-kit/challenges/ways-to-fill-slots-single-double-coverage/problem
 
