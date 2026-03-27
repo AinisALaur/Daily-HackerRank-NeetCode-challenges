@@ -35,6 +35,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Longest Common Prefix](#challenge-5---longest-common-prefix)
 - [Group Anagrams](#challenge-6---group-anagrams)
 - [Remove Element](#challenge-7---remove-element)
+- [Majority element](#challenge-8---majority-element)
 
 ---
 
@@ -118,3 +119,6 @@ https://neetcode.io/problems/anagram-groups/question
 
 ## Challenge 7 - Remove Element
 https://neetcode.io/problems/remove-element/question
+
+## Challenge 8 - Majority Element
+https://neetcode.io/problems/majority-element/question
