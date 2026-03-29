@@ -36,6 +36,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Group Anagrams](#challenge-6---group-anagrams)
 - [Remove Element](#challenge-7---remove-element)
 - [Majority element](#challenge-8---majority-element)
+- [Design Hashset](#challenge-9---design-hashset)
 
 ---
 
@@ -122,3 +123,6 @@ https://neetcode.io/problems/remove-element/question
 
 ## Challenge 8 - Majority Element
 https://neetcode.io/problems/majority-element/question
+
+## Challenge 9 - Design Hashset
+https://neetcode.io/problems/design-hashset/question
