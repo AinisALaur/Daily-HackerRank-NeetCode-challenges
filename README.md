@@ -37,6 +37,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Remove Element](#challenge-7---remove-element)
 - [Majority element](#challenge-8---majority-element)
 - [Design Hashset](#challenge-9---design-hashset)
+- [Sort an Array](#challenge-10---sort-an-array)
 
 ---
 
@@ -126,3 +127,6 @@ https://neetcode.io/problems/majority-element/question
 
 ## Challenge 9 - Design Hashset
 https://neetcode.io/problems/design-hashset/question
+
+## Challenge 10 - Sort an Array
+https://neetcode.io/problems/sort-an-array/question
