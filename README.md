@@ -38,6 +38,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Majority element](#challenge-8---majority-element)
 - [Design Hashset](#challenge-9---design-hashset)
 - [Sort an Array](#challenge-10---sort-an-array)
+- [Sort an Array](#challenge-11---sort-colors)
 
 ---
 
@@ -130,3 +131,6 @@ https://neetcode.io/problems/design-hashset/question
 
 ## Challenge 10 - Sort an Array
 https://neetcode.io/problems/sort-an-array/question
+
+## Challenge 11 - Sort Colors
+https://neetcode.io/problems/sort-colors/question
