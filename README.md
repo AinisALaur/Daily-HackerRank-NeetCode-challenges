@@ -40,6 +40,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Sort an Array](#challenge-10---sort-an-array)
 - [Sort colors](#challenge-11---sort-colors)
 - [Top K Frequent Elements](#challenge-12---top-k-frequent-elements)
+- [Encode and Decode Strings](#challenge-13---encode-and-decode-strings)
 
 ---
 
@@ -138,3 +139,6 @@ https://neetcode.io/problems/sort-colors/question
 
 ## Challenge 12 - Top K Frequent Elements
 https://neetcode.io/problems/top-k-elements-in-list/question
+
+## Challenge 13 - Encode and Decode Strings
+https://neetcode.io/problems/string-encode-and-decode/question
