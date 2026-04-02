@@ -41,6 +41,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Sort colors](#challenge-11---sort-colors)
 - [Top K Frequent Elements](#challenge-12---top-k-frequent-elements)
 - [Encode and Decode Strings](#challenge-13---encode-and-decode-strings)
+- [Range Sum Query 2D Immutable](#challenge-14---range-sum-query-2d-immutable)
 
 ---
 
@@ -142,3 +143,6 @@ https://neetcode.io/problems/top-k-elements-in-list/question
 
 ## Challenge 13 - Encode and Decode Strings
 https://neetcode.io/problems/string-encode-and-decode/question
+
+## Challenge 14 - Range Sum Query 2D Immutable
+https://neetcode.io/problems/range-sum-query-2d-immutable/question
