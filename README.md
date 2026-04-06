@@ -47,6 +47,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Longest Consecutive Sequence](#challenge-17---longest-consecutive-sequence)
 - [Best Time to Buy and Sell Stock II](#challenge-18---best-time-to-buy-and-sell-stock-ii)
 - [Majority Element II](#challenge-19---majority-element-ii)
+- [Subarray Sum Equals K](#challenge-20---subarray-sum-equals-k)
 
 ---
 
@@ -166,3 +167,6 @@ https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii/question
 
 ## Challenge 19 - Majority Element II
 https://neetcode.io/problems/majority-element-ii/question
+
+## Challenge 20 - Subarray Sum Equals K
+https://neetcode.io/problems/subarray-sum-equals-k/question
