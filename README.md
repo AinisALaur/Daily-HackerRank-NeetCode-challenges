@@ -48,6 +48,8 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Best Time to Buy and Sell Stock II](#challenge-18---best-time-to-buy-and-sell-stock-ii)
 - [Majority Element II](#challenge-19---majority-element-ii)
 - [Subarray Sum Equals K](#challenge-20---subarray-sum-equals-k)
+- [First Missing Positive](#challenge-21---first-missing-positive)
+- [Design HashMap](#challenge-22---design-hashmap)
 
 ---
 
@@ -170,3 +172,9 @@ https://neetcode.io/problems/majority-element-ii/question
 
 ## Challenge 20 - Subarray Sum Equals K
 https://neetcode.io/problems/subarray-sum-equals-k/question
+
+## Challenge 21 - First Missing Positive
+https://neetcode.io/problems/first-missing-positive/question
+
+## Challenge 22 - Design HashMap
+https://neetcode.io/problems/design-hashmap/question
