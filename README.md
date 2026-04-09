@@ -51,6 +51,8 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [First Missing Positive](#challenge-21---first-missing-positive)
 - [Design HashMap](#challenge-22---design-hashmap)
 
+### NeetCode - Stack
+- [Baseball Game](#challenge-1---baseball-game)
 ---
 
 ### HackerRank Easy
@@ -178,3 +180,8 @@ https://neetcode.io/problems/first-missing-positive/question
 
 ## Challenge 22 - Design HashMap
 https://neetcode.io/problems/design-hashmap/question
+
+### NeetCode - Stack
+
+## Challenge 1 - Baseball Game
+https://neetcode.io/problems/baseball-game/question
