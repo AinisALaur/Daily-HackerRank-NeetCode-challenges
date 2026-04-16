@@ -62,6 +62,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Daily Temperatures](#challenge-8---daily-temperatures)
 - [Online Stock Span](#challenge-9---online-stock-span)
 - [Car fleet](#challenge-10---car-fleet)
+- [Simplify Path](#challenge-11---simplify-path)
 ---
 
 ### HackerRank Easy
@@ -221,3 +222,6 @@ https://neetcode.io/problems/online-stock-span/question
 
 ## Challenge 10 - Car Fleet
 https://neetcode.io/problems/car-fleet/question
+
+## Challenge 11 - Simplify Path
+https://neetcode.io/problems/simplify-path/question
