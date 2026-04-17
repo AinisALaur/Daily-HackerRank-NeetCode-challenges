@@ -64,6 +64,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Car fleet](#challenge-10---car-fleet)
 - [Simplify Path](#challenge-11---simplify-path)
 - [Decode String](#challenge-12---decode-string)
+- [Maximum Frequency Stack](#challenge-13---maximum-frequency-stack)
 ---
 
 ### HackerRank Easy
@@ -229,3 +230,6 @@ https://neetcode.io/problems/simplify-path/question
 
 ## Challenge 12 - Decode String
 https://neetcode.io/problems/decode-string/question
+
+## Challenge 13 - Maximum Frequency Stack
+https://neetcode.io/problems/maximum-frequency-stack/question
