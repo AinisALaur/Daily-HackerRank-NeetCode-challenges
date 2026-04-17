@@ -65,6 +65,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Simplify Path](#challenge-11---simplify-path)
 - [Decode String](#challenge-12---decode-string)
 - [Maximum Frequency Stack](#challenge-13---maximum-frequency-stack)
+- [Largest Rectangle In Histogram](#challenge-14---largest-rectangle-in-histogram)
 ---
 
 ### HackerRank Easy
@@ -233,3 +234,6 @@ https://neetcode.io/problems/decode-string/question
 
 ## Challenge 13 - Maximum Frequency Stack
 https://neetcode.io/problems/maximum-frequency-stack/question
+
+## Challenge 14 - Largest Rectangle In Histogram
+https://neetcode.io/problems/largest-rectangle-in-histogram/question
