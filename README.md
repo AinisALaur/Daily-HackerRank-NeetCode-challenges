@@ -70,6 +70,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 ### NeetCode - Two pointers
 - [Reverse String](#challenge-1---reverse-string)
 - [Valid Palindrome](#challenge-2---valid-palindrome)
+- [Valid Palindrome II](#challenge-3---valid-palindrome-ii)
 --
 
 ### HackerRank Easy
@@ -249,3 +250,6 @@ https://neetcode.io/problems/reverse-string/question
 
 ## Challenge 2 - Valid Palindrome
 https://neetcode.io/problems/is-palindrome/question
+
+## Challenge 3 - Valid Palindrome II
+https://neetcode.io/problems/valid-palindrome-ii/question
