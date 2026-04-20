@@ -71,6 +71,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Reverse String](#challenge-1---reverse-string)
 - [Valid Palindrome](#challenge-2---valid-palindrome)
 - [Merge Strings Alternately](#challenge-4---merge-strings-alternately)
+- [Merge Sorted Array](#challenge-5---merge-sorted-array)
 --
 
 ### HackerRank Easy
@@ -256,3 +257,6 @@ https://neetcode.io/problems/valid-palindrome-ii/question
 
 ## Challenge 4 - Merge Strings Alternately
 https://neetcode.io/problems/merge-strings-alternately/question
+
+## Challenge 5 - Merge Sorted Array
+https://neetcode.io/problems/merge-sorted-array/question
