@@ -72,6 +72,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Valid Palindrome](#challenge-2---valid-palindrome)
 - [Merge Strings Alternately](#challenge-4---merge-strings-alternately)
 - [Merge Sorted Array](#challenge-5---merge-sorted-array)
+- [Remove Duplicates From Sorted Array](#challenge-6---remove-duplicates-from-sorted-array)
 --
 
 ### HackerRank Easy
@@ -260,3 +261,6 @@ https://neetcode.io/problems/merge-strings-alternately/question
 
 ## Challenge 5 - Merge Sorted Array
 https://neetcode.io/problems/merge-sorted-array/question
+
+## Challenge 6 - Remove Duplicates From Sorted Array
+https://neetcode.io/problems/remove-duplicates-from-sorted-array/question
