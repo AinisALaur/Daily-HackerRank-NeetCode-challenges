@@ -74,6 +74,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Merge Sorted Array](#challenge-5---merge-sorted-array)
 - [Remove Duplicates From Sorted Array](#challenge-6---remove-duplicates-from-sorted-array)
 - [Two Integer Sum II](#challenge-7---two-integer-sum-ii)
+- [3Sum](#challenge-8---3sum)
 --
 
 ### HackerRank Easy
@@ -268,3 +269,6 @@ https://neetcode.io/problems/remove-duplicates-from-sorted-array/question
 
 ## Challenge 7 - Two Integer Sum II
 https://neetcode.io/problems/two-integer-sum-ii/question
+
+## Challenge 8 - 3Sum
+https://neetcode.io/problems/three-integer-sum/question
