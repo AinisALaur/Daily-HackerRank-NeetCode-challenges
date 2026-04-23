@@ -76,6 +76,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Two Integer Sum II](#challenge-7---two-integer-sum-ii)
 - [3Sum](#challenge-8---3sum)
 - [4Sum](#challenge-9---4sum)
+- [Rotate Array](#challenge-10---rotate-array)
 --
 
 ### HackerRank Easy
@@ -276,3 +277,6 @@ https://neetcode.io/problems/three-integer-sum/question
 
 ## Challenge 9 - 4Sum
 https://neetcode.io/problems/4sum/question
+
+## Challenge 10 - Rotate Array
+https://neetcode.io/problems/rotate-array/question
