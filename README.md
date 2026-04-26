@@ -81,6 +81,10 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Boats to Save People](#challenge-12---boats-to-save-people)
 - [Trapping Rain Water](#challenge-13---trapping-rain-water)
 
+### NeetCode - Binary Search
+- [Binary Search](#challenge-1---binary-search)
+
+
 ### HackerRank Easy
 
 ## Challenge 1 - Find the Smallest Missing Positive Integer
@@ -291,3 +295,8 @@ https://neetcode.io/problems/boats-to-save-people/question
 
 ## Challenge 13 - Trapping Rain Water
 https://neetcode.io/problems/trapping-rain-water/question
+
+### NeetCode - Binary Search
+
+## Challenge 1 - Binary search
+https://neetcode.io/problems/binary-search/question
