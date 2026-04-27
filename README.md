@@ -84,6 +84,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 ### NeetCode - Binary Search
 - [Binary Search](#challenge-1---binary-search)
 - [Search Insert Position](#challenge-2---search-insert-position)
+- [Guess Number Higher Or Lower](#challenge-3---guess-number-higher-or-lower)
 
 
 ### HackerRank Easy
@@ -304,3 +305,6 @@ https://neetcode.io/problems/binary-search/question
 
 ## Challenge 2 - Search Insert Position
 https://neetcode.io/problems/search-insert-position/question
+
+## Challenge 3 - Guess Number Higher Or Lower
+https://neetcode.io/problems/guess-number-higher-or-lower/question
