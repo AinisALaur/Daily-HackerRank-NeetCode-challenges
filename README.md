@@ -86,6 +86,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Search Insert Position](#challenge-2---search-insert-position)
 - [Guess Number Higher Or Lower](#challenge-3---guess-number-higher-or-lower)
 - [Sqrt(x)](#challenge-4---sqrtx)
+- [Search a 2D Matrix](#challenge-5---search-a-2d-matrix)
 
 
 ### HackerRank Easy
@@ -312,3 +313,6 @@ https://neetcode.io/problems/guess-number-higher-or-lower/question
 
 ## Challenge 4 - Sqrt(x)
 https://neetcode.io/problems/sqrtx/question
+
+## Challenge 5 - Search a 2D Matrix
+https://neetcode.io/problems/search-2d-matrix/question
