@@ -87,6 +87,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Guess Number Higher Or Lower](#challenge-3---guess-number-higher-or-lower)
 - [Sqrt(x)](#challenge-4---sqrtx)
 - [Search a 2D Matrix](#challenge-5---search-a-2d-matrix)
+- [Koko Eating Bananas](#challenge-6---koko-eating-bananas)
 
 
 ### HackerRank Easy
@@ -316,3 +317,6 @@ https://neetcode.io/problems/sqrtx/question
 
 ## Challenge 5 - Search a 2D Matrix
 https://neetcode.io/problems/search-2d-matrix/question
+
+## Challenge 6 - Koko Eating Bananas
+https://neetcode.io/problems/eating-bananas/question
