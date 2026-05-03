@@ -91,6 +91,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Find Minimum in Rotated Sorted Array](#challenge-7---find-minimum-in-rotated-sorted-array)
 - [Capacity to Ship Packages Within D Days](#challenge-8---capacity-to-ship-packages-within-d-days)
 - [Search in Rotated Sorted Array](#challenge-9---search-in-rotated-sorted-array)
+- [Search in Rotated Sorted Array II](#challenge-10---search-in-rotated-sorted-array-ii)
 
 
 ### HackerRank Easy
@@ -332,3 +333,6 @@ https://neetcode.io/problems/capacity-to-ship-packages-within-d-days/question
 
 ## Challenge 9 - Search in Rotated Sorted Array
 https://neetcode.io/problems/find-target-in-rotated-sorted-array/question
+
+## Challenge 10 - Search in Rotated Sorted Array II
+https://neetcode.io/problems/search-in-rotated-sorted-array-ii/question
