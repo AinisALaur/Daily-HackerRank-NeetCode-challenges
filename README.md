@@ -92,6 +92,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Capacity to Ship Packages Within D Days](#challenge-8---capacity-to-ship-packages-within-d-days)
 - [Search in Rotated Sorted Array](#challenge-9---search-in-rotated-sorted-array)
 - [Search in Rotated Sorted Array II](#challenge-10---search-in-rotated-sorted-array-ii)
+- [Time Based Key-Value Store](#challenge-11---time-based-key-value-store)
 
 
 ### HackerRank Easy
@@ -336,3 +337,6 @@ https://neetcode.io/problems/find-target-in-rotated-sorted-array/question
 
 ## Challenge 10 - Search in Rotated Sorted Array II
 https://neetcode.io/problems/search-in-rotated-sorted-array-ii/question
+
+## Challenge 11 - Time Based Key-Value Store
+https://neetcode.io/problems/time-based-key-value-store/question
