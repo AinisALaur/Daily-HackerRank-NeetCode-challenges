@@ -93,6 +93,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Search in Rotated Sorted Array](#challenge-9---search-in-rotated-sorted-array)
 - [Search in Rotated Sorted Array II](#challenge-10---search-in-rotated-sorted-array-ii)
 - [Time Based Key-Value Store](#challenge-11---time-based-key-value-store)
+- [Split Array Largest Sum](#challenge-12---split-array-largest-sum)
 
 
 ### HackerRank Easy
@@ -340,3 +341,6 @@ https://neetcode.io/problems/search-in-rotated-sorted-array-ii/question
 
 ## Challenge 11 - Time Based Key-Value Store
 https://neetcode.io/problems/time-based-key-value-store/question
+
+## Challenge 12 - Split Array Largest Sum
+https://neetcode.io/problems/split-array-largest-sum/question
