@@ -97,6 +97,9 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Median of Two Sorted Arrays](#challenge-13---median-of-two-sorted-arrays)
 - [Find in Mountain Array](#challenge-14---find-in-mountain-array)
 
+### NeetCode - Sliding Window
+- [Contains Duplicate II](#challenge-1---contains-duplicate-ii)
+
 
 ### HackerRank Easy
 
@@ -352,3 +355,8 @@ https://neetcode.io/problems/median-of-two-sorted-arrays/question
 
 ## Challenge 14 - Find in Mountain Array
 https://neetcode.io/problems/find-in-mountain-array/question
+
+### NeetCode - Sliding Window
+
+## Challenge 1 - Contains Duplicate II
+https://neetcode.io/problems/contains-duplicate-ii/question
