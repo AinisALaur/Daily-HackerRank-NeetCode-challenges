@@ -95,6 +95,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Time Based Key-Value Store](#challenge-11---time-based-key-value-store)
 - [Split Array Largest Sum](#challenge-12---split-array-largest-sum)
 - [Median of Two Sorted Arrays](#challenge-13---median-of-two-sorted-arrays)
+- [Find in Mountain Array](#challenge-14---find-in-mountain-array)
 
 
 ### HackerRank Easy
@@ -348,3 +349,6 @@ https://neetcode.io/problems/split-array-largest-sum/question
 
 ## Challenge 13 - Median of Two Sorted Arrays
 https://neetcode.io/problems/median-of-two-sorted-arrays/question
+
+## Challenge 14 - Find in Mountain Array
+https://neetcode.io/problems/find-in-mountain-array/question
