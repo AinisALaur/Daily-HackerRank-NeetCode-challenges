@@ -99,6 +99,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 
 ### NeetCode - Sliding Window
 - [Contains Duplicate II](#challenge-1---contains-duplicate-ii)
+- [Best Time to Buy and Sell Stock](#challenge-2---best-time-to-buy-and-sell-stock)
 
 
 ### HackerRank Easy
@@ -360,3 +361,6 @@ https://neetcode.io/problems/find-in-mountain-array/question
 
 ## Challenge 1 - Contains Duplicate II
 https://neetcode.io/problems/contains-duplicate-ii/question
+
+## Challenge 2 - Best Time to Buy and Sell Stock
+https://neetcode.io/problems/buy-and-sell-crypto/question
