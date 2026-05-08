@@ -103,6 +103,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Longest Substring Without Repeating Characters](#challenge-3---longest-substring-without-repeating-characters)
 - [Longest Repeating Character Replacement](#challenge-4---longest-repeating-character-replacement)
 - [Permutation in String](#challenge-5---permutation-in-string)
+- [Minimum Size Subarray Sum](#challenge-6---minimum-size-subarray-sum)
 
 
 ### HackerRank Easy
@@ -376,3 +377,6 @@ https://neetcode.io/problems/longest-repeating-substring-with-replacement/questi
 
 ## Challenge 5 - Permutation in String
 https://neetcode.io/problems/permutation-string/question
+
+## Challenge 6 - Minimum Size Subarray Sum
+https://neetcode.io/problems/minimum-size-subarray-sum/question
