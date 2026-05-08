@@ -100,6 +100,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 ### NeetCode - Sliding Window
 - [Contains Duplicate II](#challenge-1---contains-duplicate-ii)
 - [Best Time to Buy and Sell Stock](#challenge-2---best-time-to-buy-and-sell-stock)
+- [Longest Substring Without Repeating Characters](#challenge-3---longest-substring-without-repeating-characters)
 
 
 ### HackerRank Easy
@@ -364,3 +365,6 @@ https://neetcode.io/problems/contains-duplicate-ii/question
 
 ## Challenge 2 - Best Time to Buy and Sell Stock
 https://neetcode.io/problems/buy-and-sell-crypto/question
+
+## Challenge 3 - Longest Substring Without Repeating Characters
+https://neetcode.io/problems/longest-substring-without-duplicates/question
