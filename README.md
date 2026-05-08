@@ -102,6 +102,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Best Time to Buy and Sell Stock](#challenge-2---best-time-to-buy-and-sell-stock)
 - [Longest Substring Without Repeating Characters](#challenge-3---longest-substring-without-repeating-characters)
 - [Longest Repeating Character Replacement](#challenge-4---longest-repeating-character-replacement)
+- [Permutation in String](#challenge-5---permutation-in-string)
 
 
 ### HackerRank Easy
@@ -372,3 +373,6 @@ https://neetcode.io/problems/longest-substring-without-duplicates/question
 
 ## Challenge 4 - Longest Repeating Character Replacement
 https://neetcode.io/problems/longest-repeating-substring-with-replacement/question
+
+## Challenge 5 - Permutation in String
+https://neetcode.io/problems/permutation-string/question
