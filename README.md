@@ -101,6 +101,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Contains Duplicate II](#challenge-1---contains-duplicate-ii)
 - [Best Time to Buy and Sell Stock](#challenge-2---best-time-to-buy-and-sell-stock)
 - [Longest Substring Without Repeating Characters](#challenge-3---longest-substring-without-repeating-characters)
+- [Longest Repeating Character Replacement](#challenge-4---longest-repeating-character-replacement)
 
 
 ### HackerRank Easy
@@ -368,3 +369,6 @@ https://neetcode.io/problems/buy-and-sell-crypto/question
 
 ## Challenge 3 - Longest Substring Without Repeating Characters
 https://neetcode.io/problems/longest-substring-without-duplicates/question
+
+## Challenge 4 - Longest Repeating Character Replacement
+https://neetcode.io/problems/longest-repeating-substring-with-replacement/question
