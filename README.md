@@ -104,6 +104,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Longest Repeating Character Replacement](#challenge-4---longest-repeating-character-replacement)
 - [Permutation in String](#challenge-5---permutation-in-string)
 - [Minimum Size Subarray Sum](#challenge-6---minimum-size-subarray-sum)
+- [Find K Closest Elements](#challenge-7---find-k-closest-elements)
 
 
 ### HackerRank Easy
@@ -380,3 +381,6 @@ https://neetcode.io/problems/permutation-string/question
 
 ## Challenge 6 - Minimum Size Subarray Sum
 https://neetcode.io/problems/minimum-size-subarray-sum/question
+
+## Challenge 7 - Find K Closest Elements
+https://neetcode.io/problems/find-k-closest-elements/question
