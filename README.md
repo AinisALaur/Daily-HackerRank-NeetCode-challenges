@@ -105,6 +105,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Permutation in String](#challenge-5---permutation-in-string)
 - [Minimum Size Subarray Sum](#challenge-6---minimum-size-subarray-sum)
 - [Find K Closest Elements](#challenge-7---find-k-closest-elements)
+- [Minimum Window Substring](#challenge-8---minimum-window-substring)
 
 
 ### HackerRank Easy
@@ -384,3 +385,6 @@ https://neetcode.io/problems/minimum-size-subarray-sum/question
 
 ## Challenge 7 - Find K Closest Elements
 https://neetcode.io/problems/find-k-closest-elements/question
+
+## Challenge 8 - Minimum Window Substring
+https://neetcode.io/problems/minimum-window-with-characters/question
