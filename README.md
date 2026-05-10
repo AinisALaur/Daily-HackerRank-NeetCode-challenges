@@ -108,6 +108,9 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Minimum Window Substring](#challenge-8---minimum-window-substring)
 - [Sliding Window Maximum](#challenge-9---sliding-window-maximum)
 
+### NeetCode - Intervals
+- [Meeting Rooms](#challenge-1---meeting-rooms)
+
 ### HackerRank Easy
 
 ## Challenge 1 - Find the Smallest Missing Positive Integer
@@ -391,3 +394,8 @@ https://neetcode.io/problems/minimum-window-with-characters/question
 
 ## Challenge 9 - Sliding Window Maximum
 https://neetcode.io/problems/sliding-window-maximum/question
+
+### NeetCode - Intervals
+
+## Challenge 1 - Meeting Rooms
+https://neetcode.io/problems/meeting-schedule/question
