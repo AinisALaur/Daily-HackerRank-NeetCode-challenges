@@ -111,6 +111,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 ### NeetCode - Intervals
 - [Meeting Rooms](#challenge-1---meeting-rooms)
 - [Meeting Rooms II](#challenge-2---meeting-rooms-ii)
+- [Meeting Rooms III](#challenge-3---meeting-rooms-iii)
 
 ### HackerRank Easy
 
@@ -403,3 +404,6 @@ https://neetcode.io/problems/meeting-schedule/question
 
 ## Challenge 2 - Meeting Rooms II
 https://neetcode.io/problems/meeting-schedule-ii/question
+
+## Challenge 3 - Meeting Rooms III
+https://neetcode.io/problems/meeting-schedule-iii/question
