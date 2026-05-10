@@ -110,6 +110,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 
 ### NeetCode - Intervals
 - [Meeting Rooms](#challenge-1---meeting-rooms)
+- [Meeting Rooms II](#challenge-2---meeting-rooms-ii)
 
 ### HackerRank Easy
 
@@ -399,3 +400,6 @@ https://neetcode.io/problems/sliding-window-maximum/question
 
 ## Challenge 1 - Meeting Rooms
 https://neetcode.io/problems/meeting-schedule/question
+
+## Challenge 2 - Meeting Rooms II
+https://neetcode.io/problems/meeting-schedule-ii/question
