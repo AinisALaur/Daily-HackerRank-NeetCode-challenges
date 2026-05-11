@@ -116,6 +116,9 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Merge Intervals](#challenge-5---merge-intervals)
 - [Non-overlapping Intervals](#challenge-6---non-overlapping-intervals)
 
+### NeetCode - Greedy
+- [Lemonade Change](#challenge-1---lemonade-change)
+
 ### HackerRank Easy
 
 ## Challenge 1 - Find the Smallest Missing Positive Integer
@@ -419,3 +422,8 @@ https://neetcode.io/problems/merge-intervals/question
 
 ## Challenge 6 - Non-overlapping Intervals
 https://neetcode.io/problems/non-overlapping-intervals/question
+
+### NeetCode - Greedy
+
+## Challenge 1 - Lemonade Change
+https://neetcode.io/problems/lemonade-change/question
