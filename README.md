@@ -113,6 +113,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Meeting Rooms II](#challenge-2---meeting-rooms-ii)
 - [Meeting Rooms III](#challenge-3---meeting-rooms-iii)
 - [Insert Interval](#challenge-4---insert-interval)
+- [Merge Intervals](#challenge-5---merge-intervals)
 
 ### HackerRank Easy
 
@@ -411,3 +412,6 @@ https://neetcode.io/problems/meeting-schedule-iii/question
 
 ## Challenge 4 - Insert Interval
 https://neetcode.io/problems/insert-new-interval/question
+
+## Challenge 5 - Merge Intervals
+https://neetcode.io/problems/merge-intervals/question
