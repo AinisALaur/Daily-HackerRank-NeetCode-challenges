@@ -120,6 +120,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Lemonade Change](#challenge-1---lemonade-change)
 - [Maximum Subarray](#challenge-2---maximum-subarray)
 - [Jump Game](#challenge-3---jump-game)
+- [Jump Game II](#challenge-4---jump-game-ii)
 
 ### HackerRank Easy
 
@@ -435,3 +436,6 @@ https://neetcode.io/problems/maximum-subarray/question
 
 ## Challenge 3 - Jump Game
 https://neetcode.io/problems/jump-game/question
+
+## Challenge 4 - Jump Game II
+https://neetcode.io/problems/jump-game-ii/question
