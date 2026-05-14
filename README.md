@@ -122,6 +122,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Maximum Subarray](#challenge-2---maximum-subarray)
 - [Jump Game](#challenge-3---jump-game)
 - [Jump Game II](#challenge-4---jump-game-ii)
+- [Jump Game VII](#challenge-5---jump-game-vii)
 
 ### HackerRank Easy
 
@@ -443,3 +444,6 @@ https://neetcode.io/problems/jump-game/question
 
 ## Challenge 4 - Jump Game II
 https://neetcode.io/problems/jump-game-ii/question
+
+## Challenge 5 - Jump Game VII
+https://neetcode.io/problems/jump-game-vii/question
