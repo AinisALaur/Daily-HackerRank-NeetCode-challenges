@@ -125,6 +125,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Jump Game VII](#challenge-5---jump-game-vii)
 - [Maximum Sum Circular Subarray](#challenge-6---maximum-sum-circular-subarray)
 - [Longest Turbulent Subarray](#challenge-7---longest-turbulent-subarray)
+- [Gas Station](#challenge-8---gas-station)
 
 ### HackerRank Easy
 
@@ -455,3 +456,6 @@ https://neetcode.io/problems/maximum-sum-circular-subarray/question
 
 ## Challenge 7 - Longest Turbulent Subarray
 https://neetcode.io/problems/longest-turbulent-subarray/question
+
+## Challenge 8 - Gas Station
+https://neetcode.io/problems/gas-station/question
