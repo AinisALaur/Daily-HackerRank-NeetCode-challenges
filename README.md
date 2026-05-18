@@ -126,6 +126,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Maximum Sum Circular Subarray](#challenge-6---maximum-sum-circular-subarray)
 - [Longest Turbulent Subarray](#challenge-7---longest-turbulent-subarray)
 - [Gas Station](#challenge-8---gas-station)
+- [Hand of Straights](#challenge-9---hand-of-straights)
 
 ### HackerRank Easy
 
@@ -459,3 +460,6 @@ https://neetcode.io/problems/longest-turbulent-subarray/question
 
 ## Challenge 8 - Gas Station
 https://neetcode.io/problems/gas-station/question
+
+## Challenge 9 - Hand of Straights
+https://neetcode.io/problems/hand-of-straights/question?list=neetcode250
