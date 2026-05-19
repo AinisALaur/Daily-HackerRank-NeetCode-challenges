@@ -127,6 +127,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Longest Turbulent Subarray](#challenge-7---longest-turbulent-subarray)
 - [Gas Station](#challenge-8---gas-station)
 - [Hand of Straights](#challenge-9---hand-of-straights)
+- [Dota2 Senate](#challenge-10---dota2-senate)
 
 ### HackerRank Easy
 
@@ -462,4 +463,7 @@ https://neetcode.io/problems/longest-turbulent-subarray/question
 https://neetcode.io/problems/gas-station/question
 
 ## Challenge 9 - Hand of Straights
-https://neetcode.io/problems/hand-of-straights/question?list=neetcode250
+https://neetcode.io/problems/hand-of-straights/question
+
+## Challenge 10 - Dota2 Senate
+https://neetcode.io/problems/dota2-senate/question
