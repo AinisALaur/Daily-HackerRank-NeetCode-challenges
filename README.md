@@ -128,6 +128,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Gas Station](#challenge-8---gas-station)
 - [Hand of Straights](#challenge-9---hand-of-straights)
 - [Dota2 Senate](#challenge-10---dota2-senate)
+- [Merge Triplets to Form Target](#challenge-11---merge-triplets-to-form-target)
 
 ### HackerRank Easy
 
@@ -467,3 +468,6 @@ https://neetcode.io/problems/hand-of-straights/question
 
 ## Challenge 10 - Dota2 Senate
 https://neetcode.io/problems/dota2-senate/question
+
+## Challenge 11 - Merge Triplets to Form Target
+https://neetcode.io/problems/merge-triplets-to-form-target/question
