@@ -129,6 +129,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Hand of Straights](#challenge-9---hand-of-straights)
 - [Dota2 Senate](#challenge-10---dota2-senate)
 - [Merge Triplets to Form Target](#challenge-11---merge-triplets-to-form-target)
+- [Partition Labels](#challenge-12---partition-labels)
 
 ### HackerRank Easy
 
@@ -471,3 +472,6 @@ https://neetcode.io/problems/dota2-senate/question
 
 ## Challenge 11 - Merge Triplets to Form Target
 https://neetcode.io/problems/merge-triplets-to-form-target/question
+
+## Challenge 12 - Partition Labels
+https://neetcode.io/problems/partition-labels/question
