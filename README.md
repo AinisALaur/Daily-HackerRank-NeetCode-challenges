@@ -131,6 +131,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Merge Triplets to Form Target](#challenge-11---merge-triplets-to-form-target)
 - [Partition Labels](#challenge-12---partition-labels)
 - [Valid Parenthesis String](#challenge-13---valid-parenthesis-string)
+- [Candy](#challenge-14---candy)
 
 ### HackerRank Easy
 
@@ -479,3 +480,6 @@ https://neetcode.io/problems/partition-labels/question
 
 ## Challenge 13 - Valid Parenthesis String
 https://neetcode.io/problems/valid-parenthesis-string/question
+
+## Challenge 14 - Candy
+https://neetcode.io/problems/candy/question
