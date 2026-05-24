@@ -133,6 +133,9 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Valid Parenthesis String](#challenge-13---valid-parenthesis-string)
 - [Candy](#challenge-14---candy)
 
+### NeetCode - Linked List
+- [Reverse Linked List](#challenge-1---reverse-linked-list)
+
 ### HackerRank Easy
 
 ## Challenge 1 - Find the Smallest Missing Positive Integer
@@ -483,3 +486,6 @@ https://neetcode.io/problems/valid-parenthesis-string/question
 
 ## Challenge 14 - Candy
 https://neetcode.io/problems/candy/question
+
+## Challenge 1 - Reverse Linked List
+https://neetcode.io/problems/reverse-a-linked-list/question
