@@ -136,6 +136,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 ### NeetCode - Linked List
 - [Reverse Linked List](#challenge-1---reverse-linked-list)
 - [Merge Two Sorted Linked Lists](#challenge-2---merge-two-sorted-linked-lists)
+- [Linked List Cycle Detection](#challenge-3---linked-list-cycle-detection)
 
 ### HackerRank Easy
 
@@ -493,3 +494,6 @@ https://neetcode.io/problems/reverse-a-linked-list/question
 
 ## Challenge 2 - Merge Two Sorted Linked Lists
 https://neetcode.io/problems/merge-two-sorted-linked-lists/question
+
+## Challenge 3 - Linked List Cycle Detection
+https://neetcode.io/problems/linked-list-cycle-detection/question
