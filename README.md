@@ -137,6 +137,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Reverse Linked List](#challenge-1---reverse-linked-list)
 - [Merge Two Sorted Linked Lists](#challenge-2---merge-two-sorted-linked-lists)
 - [Linked List Cycle Detection](#challenge-3---linked-list-cycle-detection)
+- [Remove Nth Node From End of List](#challenge-4---remove-nth-node-from-end-of-list)
 
 ### HackerRank Easy
 
@@ -497,3 +498,6 @@ https://neetcode.io/problems/merge-two-sorted-linked-lists/question
 
 ## Challenge 3 - Linked List Cycle Detection
 https://neetcode.io/problems/linked-list-cycle-detection/question
+
+## Challenge 4 - Remove Nth Node From End of List
+https://neetcode.io/problems/remove-node-from-end-of-linked-list/question
