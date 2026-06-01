@@ -139,6 +139,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Linked List Cycle Detection](#challenge-3---linked-list-cycle-detection)
 - [Remove Nth Node From End of List](#challenge-4---remove-nth-node-from-end-of-list)
 - [Reorder Linked List](#challenge-5---reorder-linked-list)
+- [Copy Linked List with Random Pointer](#challenge-6---copy-linked-list-with-random-pointer)
 
 ### HackerRank Easy
 
@@ -505,3 +506,6 @@ https://neetcode.io/problems/remove-node-from-end-of-linked-list/question
 
 ## Challenge 5 - Reorder Linked List
 https://neetcode.io/problems/reorder-linked-list/question
+
+## Challenge 6 - Copy Linked List with Random Pointer
+https://neetcode.io/problems/copy-linked-list-with-random-pointer/question
