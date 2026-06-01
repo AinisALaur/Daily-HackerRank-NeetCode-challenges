@@ -140,6 +140,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Remove Nth Node From End of List](#challenge-4---remove-nth-node-from-end-of-list)
 - [Reorder Linked List](#challenge-5---reorder-linked-list)
 - [Copy Linked List with Random Pointer](#challenge-6---copy-linked-list-with-random-pointer)
+- [Add Two Numbers](#challenge-7---add-two-numbers)
 
 ### HackerRank Easy
 
@@ -509,3 +510,6 @@ https://neetcode.io/problems/reorder-linked-list/question
 
 ## Challenge 6 - Copy Linked List with Random Pointer
 https://neetcode.io/problems/copy-linked-list-with-random-pointer/question
+
+## Challenge 7 - Add Two Numbers
+https://neetcode.io/problems/add-two-numbers/question
