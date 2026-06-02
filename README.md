@@ -141,6 +141,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Reorder Linked List](#challenge-5---reorder-linked-list)
 - [Copy Linked List with Random Pointer](#challenge-6---copy-linked-list-with-random-pointer)
 - [Add Two Numbers](#challenge-7---add-two-numbers)
+- [Find the Duplicate Number](#challenge-8---find-the-duplicate-number)
 
 ### HackerRank Easy
 
@@ -513,3 +514,6 @@ https://neetcode.io/problems/copy-linked-list-with-random-pointer/question
 
 ## Challenge 7 - Add Two Numbers
 https://neetcode.io/problems/add-two-numbers/question
+
+## Challenge 8 - Find the Duplicate Number
+https://neetcode.io/problems/find-duplicate-integer/question
