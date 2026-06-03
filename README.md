@@ -142,6 +142,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Copy Linked List with Random Pointer](#challenge-6---copy-linked-list-with-random-pointer)
 - [Add Two Numbers](#challenge-7---add-two-numbers)
 - [Find the Duplicate Number](#challenge-8---find-the-duplicate-number)
+- [Reverse Linked List II](#challenge-9---reverse-linked-list-ii)
 
 ### HackerRank Easy
 
@@ -517,3 +518,6 @@ https://neetcode.io/problems/add-two-numbers/question
 
 ## Challenge 8 - Find the Duplicate Number
 https://neetcode.io/problems/find-duplicate-integer/question
+
+## Challenge 9 - Reverse Linked List II
+https://neetcode.io/problems/reverse-linked-list-ii/question
