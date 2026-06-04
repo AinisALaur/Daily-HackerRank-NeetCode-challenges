@@ -143,6 +143,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Add Two Numbers](#challenge-7---add-two-numbers)
 - [Find the Duplicate Number](#challenge-8---find-the-duplicate-number)
 - [Reverse Linked List II](#challenge-9---reverse-linked-list-ii)
+- [Design Circular Queue](#challenge-10---design-circular-queue)
 
 ### HackerRank Easy
 
@@ -521,3 +522,6 @@ https://neetcode.io/problems/find-duplicate-integer/question
 
 ## Challenge 9 - Reverse Linked List II
 https://neetcode.io/problems/reverse-linked-list-ii/question
+
+## Challenge 10 - Design Circular Queue
+https://neetcode.io/problems/design-circular-queue/question
