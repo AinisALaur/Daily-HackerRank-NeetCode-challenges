@@ -144,6 +144,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Find the Duplicate Number](#challenge-8---find-the-duplicate-number)
 - [Reverse Linked List II](#challenge-9---reverse-linked-list-ii)
 - [Design Circular Queue](#challenge-10---design-circular-queue)
+- [LRU Cache](#challenge-11---lru-cache)
 
 ### HackerRank Easy
 
@@ -525,3 +526,6 @@ https://neetcode.io/problems/reverse-linked-list-ii/question
 
 ## Challenge 10 - Design Circular Queue
 https://neetcode.io/problems/design-circular-queue/question
+
+## Challenge 11 - LRU Cache
+https://neetcode.io/problems/lru-cache/question
