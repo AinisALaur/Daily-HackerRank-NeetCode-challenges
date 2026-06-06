@@ -145,6 +145,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Reverse Linked List II](#challenge-9---reverse-linked-list-ii)
 - [Design Circular Queue](#challenge-10---design-circular-queue)
 - [LRU Cache](#challenge-11---lru-cache)
+- [Merge K Sorted Linked Lists](#challenge-12---merge-k-sorted-linked-lists)
 
 ### HackerRank Easy
 
@@ -529,3 +530,6 @@ https://neetcode.io/problems/design-circular-queue/question
 
 ## Challenge 11 - LRU Cache
 https://neetcode.io/problems/lru-cache/question
+
+## Challenge 12 - Merge K Sorted Linked Lists
+https://neetcode.io/problems/merge-k-sorted-linked-lists/question
