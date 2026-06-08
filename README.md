@@ -147,6 +147,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [LRU Cache](#challenge-11---lru-cache)
 - [Merge K Sorted Linked Lists](#challenge-12---merge-k-sorted-linked-lists)
 - [Reverse Nodes in K-Group](#challenge-13---reverse-nodes-in-k-group)
+- [LFU Cache](#challenge-14---lfu-cache)
 
 ### HackerRank Easy
 
@@ -537,3 +538,6 @@ https://neetcode.io/problems/merge-k-sorted-linked-lists/question
 
 ## Challenge 13 - Reverse Nodes in K-Group
 https://neetcode.io/problems/reverse-nodes-in-k-group/question
+
+## Challenge 14 - LFU Cache
+https://neetcode.io/problems/lfu-cache/question
