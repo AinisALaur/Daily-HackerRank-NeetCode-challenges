@@ -30,11 +30,6 @@ class LinkedList:
         self.pop(self.left.next.val)
         return res
 
-    def update(self, val):
-        self.pop(val)
-        self.pushRigth(Val)
-
-
 class LFUCache:
     def __init__(self, capacity: int):
         self.capacity = capacity
