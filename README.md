@@ -149,6 +149,10 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Reverse Nodes in K-Group](#challenge-13---reverse-nodes-in-k-group)
 - [LFU Cache](#challenge-14---lfu-cache)
 
+### NeetCode - Trees
+- [Binary Tree Inorder Traversal](#challenge-1---binary-tree-inorder-traversal)
+
+
 ### HackerRank Easy
 
 ## Challenge 1 - Find the Smallest Missing Positive Integer
@@ -500,6 +504,8 @@ https://neetcode.io/problems/valid-parenthesis-string/question
 ## Challenge 14 - Candy
 https://neetcode.io/problems/candy/question
 
+### NeetCode - Linked List
+
 ## Challenge 1 - Reverse Linked List
 https://neetcode.io/problems/reverse-a-linked-list/question
 
@@ -541,3 +547,8 @@ https://neetcode.io/problems/reverse-nodes-in-k-group/question
 
 ## Challenge 14 - LFU Cache
 https://neetcode.io/problems/lfu-cache/question
+
+### NeetCode - Trees
+
+## Challenge 1 - Binary Tree Inorder Traversal
+https://neetcode.io/problems/binary-tree-inorder-traversal/question
