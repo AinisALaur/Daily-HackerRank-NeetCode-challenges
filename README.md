@@ -152,6 +152,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 ### NeetCode - Trees
 - [Binary Tree Inorder Traversal](#challenge-1---binary-tree-inorder-traversal)
 - [Binary Tree Preorder Traversal](#challenge-2---binary-tree-preorder-traversal)
+- [Binary Tree Postorder Traversal](#challenge-3---binary-tree-postorder-traversal)
 
 
 ### HackerRank Easy
@@ -556,3 +557,6 @@ https://neetcode.io/problems/binary-tree-inorder-traversal/question
 
 ## Challenge 2 - Binary Tree Preorder Traversal
 https://neetcode.io/problems/binary-tree-preorder-traversal/question
+
+## Challenge 3 - Binary Tree Postorder Traversal
+https://neetcode.io/problems/binary-tree-postorder-traversal/question
