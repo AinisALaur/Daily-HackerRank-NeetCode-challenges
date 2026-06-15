@@ -156,6 +156,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Invert Binary Tree](#challenge-4---invert-binary-tree)
 - [Maximum Depth of Binary Tree](#challenge-5---maximum-depth-of-binary-tree)
 - [Diameter of Binary Tree](#challenge-6---diameter-of-binary-tree)
+- [Balanced Binary Tree](#challenge-7---balanced-binary-tree)
 
 ### HackerRank Easy
 
@@ -571,3 +572,6 @@ https://neetcode.io/problems/depth-of-binary-tree/question
 
 ## Challenge 6 - Diameter of Binary Tree
 https://neetcode.io/problems/binary-tree-diameter/question
+
+## Challenge 7 - Balanced Binary Tree
+https://neetcode.io/problems/balanced-binary-tree/question
