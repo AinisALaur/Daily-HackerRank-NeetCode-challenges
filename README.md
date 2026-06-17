@@ -158,6 +158,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Diameter of Binary Tree](#challenge-6---diameter-of-binary-tree)
 - [Balanced Binary Tree](#challenge-7---balanced-binary-tree)
 - [Same Binary Tree](#challenge-8---same-binary-tree)
+- [Subtree of Another Tree](#challenge-9---subtree-of-another-tree)
 
 ### HackerRank Easy
 
@@ -579,3 +580,6 @@ https://neetcode.io/problems/balanced-binary-tree/question
 
 ## Challenge 8 - Same Binary Tree
 https://neetcode.io/problems/same-binary-tree/question
+
+## Challenge 9 - Subtree of Another Tree
+https://neetcode.io/problems/subtree-of-a-binary-tree/question
