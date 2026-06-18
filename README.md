@@ -159,6 +159,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Balanced Binary Tree](#challenge-7---balanced-binary-tree)
 - [Same Binary Tree](#challenge-8---same-binary-tree)
 - [Subtree of Another Tree](#challenge-9---subtree-of-another-tree)
+- [Lowest Common Ancestor in Binary Search Tree](#challenge-10---lowest-common-ancestor-in-binary-search-tree)
 
 ### HackerRank Easy
 
@@ -583,3 +584,6 @@ https://neetcode.io/problems/same-binary-tree/question
 
 ## Challenge 9 - Subtree of Another Tree
 https://neetcode.io/problems/subtree-of-a-binary-tree/question
+
+## Challenge 10 - Lowest Common Ancestor in Binary Search Tree
+https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree/question
