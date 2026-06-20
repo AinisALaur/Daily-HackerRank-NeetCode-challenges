@@ -161,6 +161,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Subtree of Another Tree](#challenge-9---subtree-of-another-tree)
 - [Lowest Common Ancestor in Binary Search Tree](#challenge-10---lowest-common-ancestor-in-binary-search-tree)
 - [Insert into a Binary Search Tree](#challenge-11---insert-into-a-binary-search-tree)
+- [Delete Node in a BST](#challenge-12---delete-node-in-a-bst)
 
 ### HackerRank Easy
 
@@ -591,3 +592,6 @@ https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree/questi
 
 ## Challenge 11 - Insert into a Binary Search Tree
 https://neetcode.io/problems/insert-into-a-binary-search-tree/question
+
+## Challenge 12 - Delete Node in a BST
+https://neetcode.io/problems/delete-node-in-a-bst/question
