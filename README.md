@@ -163,6 +163,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Insert into a Binary Search Tree](#challenge-11---insert-into-a-binary-search-tree)
 - [Delete Node in a BST](#challenge-12---delete-node-in-a-bst)
 - [Binary Tree Level Order Traversal](#challenge-13---binary-tree-level-order-traversal)
+- [Binary Tree Right Side View](#challenge-14---binary-tree-right-side-view)
 
 ### HackerRank Easy
 
@@ -599,3 +600,6 @@ https://neetcode.io/problems/delete-node-in-a-bst/question
 
 ## Challenge 13 - Binary Tree Level Order Traversal
 https://neetcode.io/problems/level-order-traversal-of-binary-tree/question
+
+## Challenge 14 - Binary Tree Right Side View
+https://neetcode.io/problems/binary-tree-right-side-view/question
