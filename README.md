@@ -164,6 +164,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Delete Node in a BST](#challenge-12---delete-node-in-a-bst)
 - [Binary Tree Level Order Traversal](#challenge-13---binary-tree-level-order-traversal)
 - [Binary Tree Right Side View](#challenge-14---binary-tree-right-side-view)
+- [Construct Quad Tree](#challenge-15---construct-quad-tree)
 
 ### HackerRank Easy
 
@@ -603,3 +604,6 @@ https://neetcode.io/problems/level-order-traversal-of-binary-tree/question
 
 ## Challenge 14 - Binary Tree Right Side View
 https://neetcode.io/problems/binary-tree-right-side-view/question
+
+## Challenge 15 - Construct Quad Tree
+https://neetcode.io/problems/construct-quad-tree/question
