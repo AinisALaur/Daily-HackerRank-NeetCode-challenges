@@ -165,6 +165,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Binary Tree Level Order Traversal](#challenge-13---binary-tree-level-order-traversal)
 - [Binary Tree Right Side View](#challenge-14---binary-tree-right-side-view)
 - [Construct Quad Tree](#challenge-15---construct-quad-tree)
+- [Count Good Nodes in Binary Tree](#challenge-16---count-good-nodes-in-binary-tree)
 
 ### HackerRank Easy
 
@@ -607,3 +608,6 @@ https://neetcode.io/problems/binary-tree-right-side-view/question
 
 ## Challenge 15 - Construct Quad Tree
 https://neetcode.io/problems/construct-quad-tree/question
+
+## Challenge 16 - Count Good Nodes in Binary Tree
+https://neetcode.io/problems/count-good-nodes-in-binary-tree/question
