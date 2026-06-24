@@ -168,6 +168,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Count Good Nodes in Binary Tree](#challenge-16---count-good-nodes-in-binary-tree)
 - [Valid Binary Search Tree](#challenge-17---valid-binary-search-tree)
 - [Kth Smallest Integer in BST](#challenge-18---kth-smallest-integer-in-bst)
+- [Construct Binary Tree from Preorder and Inorder Traversal](#challenge-19---construct-binary-tree-from-preorder-and-inorder-traversal)
 
 ### HackerRank Easy
 
@@ -619,3 +620,6 @@ https://neetcode.io/problems/valid-binary-search-tree/question
 
 ## Challenge 18 - Kth Smallest Integer in BST
 https://neetcode.io/problems/kth-smallest-integer-in-bst/question
+
+## Challenge 19 - Construct Binary Tree from Preorder and Inorder Traversal
+https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question
