@@ -170,6 +170,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Kth Smallest Integer in BST](#challenge-18---kth-smallest-integer-in-bst)
 - [Construct Binary Tree from Preorder and Inorder Traversal](#challenge-19---construct-binary-tree-from-preorder-and-inorder-traversal)
 - [House Robber III](#challenge-20---house-robber-iii)
+- [Delete Leaves With a Given Value](#challenge-21---delete-leaves-with-a-given-value)
 
 ### HackerRank Easy
 
@@ -627,3 +628,6 @@ https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/que
 
 ## Challenge 20 - House Robber III
 https://neetcode.io/problems/house-robber-iii/question
+
+## Challenge 21 - Delete Leaves With a Given Value
+https://neetcode.io/problems/delete-leaves-with-a-given-value/question
