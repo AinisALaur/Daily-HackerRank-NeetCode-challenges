@@ -169,6 +169,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Valid Binary Search Tree](#challenge-17---valid-binary-search-tree)
 - [Kth Smallest Integer in BST](#challenge-18---kth-smallest-integer-in-bst)
 - [Construct Binary Tree from Preorder and Inorder Traversal](#challenge-19---construct-binary-tree-from-preorder-and-inorder-traversal)
+- [House Robber III](#challenge-20---house-robber-iii)
 
 ### HackerRank Easy
 
@@ -623,3 +624,6 @@ https://neetcode.io/problems/kth-smallest-integer-in-bst/question
 
 ## Challenge 19 - Construct Binary Tree from Preorder and Inorder Traversal
 https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question
+
+## Challenge 20 - House Robber III
+https://neetcode.io/problems/house-robber-iii/question
