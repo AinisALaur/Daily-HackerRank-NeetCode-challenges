@@ -171,6 +171,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Construct Binary Tree from Preorder and Inorder Traversal](#challenge-19---construct-binary-tree-from-preorder-and-inorder-traversal)
 - [House Robber III](#challenge-20---house-robber-iii)
 - [Delete Leaves With a Given Value](#challenge-21---delete-leaves-with-a-given-value)
+- [Binary Tree Maximum Path Sum](#challenge-22---binary-tree-maximum-path-sum)
 
 ### HackerRank Easy
 
@@ -631,3 +632,6 @@ https://neetcode.io/problems/house-robber-iii/question
 
 ## Challenge 21 - Delete Leaves With a Given Value
 https://neetcode.io/problems/delete-leaves-with-a-given-value/question
+
+## Challenge 22 - Binary Tree Maximum Path Sum
+https://neetcode.io/problems/binary-tree-maximum-path-sum/question
