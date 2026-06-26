@@ -172,6 +172,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [House Robber III](#challenge-20---house-robber-iii)
 - [Delete Leaves With a Given Value](#challenge-21---delete-leaves-with-a-given-value)
 - [Binary Tree Maximum Path Sum](#challenge-22---binary-tree-maximum-path-sum)
+- [Serialize and Deserialize Binary Tree](#challenge-23---serialize-and-deserialize-binary-tree)
 
 ### HackerRank Easy
 
@@ -635,3 +636,6 @@ https://neetcode.io/problems/delete-leaves-with-a-given-value/question
 
 ## Challenge 22 - Binary Tree Maximum Path Sum
 https://neetcode.io/problems/binary-tree-maximum-path-sum/question
+
+## Challenge 23 - Serialize and Deserialize Binary Tree
+https://neetcode.io/problems/serialize-and-deserialize-binary-tree/question
