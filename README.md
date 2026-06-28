@@ -174,6 +174,9 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Binary Tree Maximum Path Sum](#challenge-22---binary-tree-maximum-path-sum)
 - [Serialize and Deserialize Binary Tree](#challenge-23---serialize-and-deserialize-binary-tree)
 
+### NeetCode - Backtracking
+- [Sum of All Subsets XOR Total](#challenge-1---sum-of-all-subsets-xor-total)
+
 ### HackerRank Easy
 
 ## Challenge 1 - Find the Smallest Missing Positive Integer
@@ -638,4 +641,9 @@ https://neetcode.io/problems/delete-leaves-with-a-given-value/question
 https://neetcode.io/problems/binary-tree-maximum-path-sum/question
 
 ## Challenge 23 - Serialize and Deserialize Binary Tree
-https://neetcode.io/problems/serialize-and-deserialize-binary-tree/question
+https://neetcode.io/problems/serialize-and-deserialize-binary-tree/questio
+
+### NeetCode - Backtracking
+
+## Challenge 1 - Sum of All Subsets XOR Total
+https://neetcode.io/problems/sum-of-all-subset-xor-totals/question
