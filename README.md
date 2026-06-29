@@ -176,6 +176,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 
 ### NeetCode - Backtracking
 - [Sum of All Subsets XOR Total](#challenge-1---sum-of-all-subsets-xor-total)
+- [Subsets](#challenge-2---subsets)
 
 ### HackerRank Easy
 
@@ -647,3 +648,6 @@ https://neetcode.io/problems/serialize-and-deserialize-binary-tree/questio
 
 ## Challenge 1 - Sum of All Subsets XOR Total
 https://neetcode.io/problems/sum-of-all-subset-xor-totals/question
+
+## Challenge 2 - Subsets
+https://neetcode.io/problems/subsets/question
