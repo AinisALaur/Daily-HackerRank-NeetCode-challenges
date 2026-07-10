@@ -181,6 +181,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Combination Sum II](#challenge-4---combination-sum-ii)
 - [Combinations](#challenge-5---combinations)
 - [Permutations](#challenge-6---permutations)
+- [Subsets II](#challenge-7---subsets-ii)
 
 ### HackerRank Easy
 
@@ -667,3 +668,6 @@ https://neetcode.io/problems/combinations/question
 
 ## Challenge 6 - Permutations
 https://neetcode.io/problems/permutations/question
+
+## Challenge 7 - Subsets II
+https://neetcode.io/problems/subsets-ii/question
