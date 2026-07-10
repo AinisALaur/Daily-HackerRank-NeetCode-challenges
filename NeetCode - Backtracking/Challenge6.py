@@ -1,7 +1,7 @@
 class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
-        if len(nums) == 0:
-            return [[]]
+    def permute(self, nums: list[int]) -> list[list[int]]:
+        if len(nums) == 1:
+            return [[nums[0]]]
 
         perms = self.permute(nums[1:])
         res = []
@@ -11,3 +11,6 @@ class Solution:
                 p_copy.insert(i, nums[0])
                 res.append(p_copy)
         return res
+
+sol = Solution()
+print(sol.permute([1,2,3]))
