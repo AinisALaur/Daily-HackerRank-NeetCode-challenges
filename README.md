@@ -180,6 +180,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Combination Sum](#challenge-3---combination-sum)
 - [Combination Sum II](#challenge-4---combination-sum-ii)
 - [Combinations](#challenge-5---combinations)
+- [Permutations](#challenge-6---permutations)
 
 ### HackerRank Easy
 
@@ -663,3 +664,6 @@ https://neetcode.io/problems/combination-target-sum-ii/question
 
 ## Challenge 5 - Combinations
 https://neetcode.io/problems/combinations/question
+
+## Challenge 6 - Permutations
+https://neetcode.io/problems/permutations/question
