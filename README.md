@@ -182,6 +182,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Combinations](#challenge-5---combinations)
 - [Permutations](#challenge-6---permutations)
 - [Subsets II](#challenge-7---subsets-ii)
+- [Permutations II](#challenge-8---permutations-ii)
 
 ### HackerRank Easy
 
@@ -671,3 +672,6 @@ https://neetcode.io/problems/permutations/question
 
 ## Challenge 7 - Subsets II
 https://neetcode.io/problems/subsets-ii/question
+
+## Challenge 8 - Permutations II
+https://neetcode.io/problems/permutations-ii/question
