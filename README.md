@@ -183,6 +183,7 @@ Currently solving NeetCode's roadmap - https://neetcode.io/roadmap
 - [Permutations](#challenge-6---permutations)
 - [Subsets II](#challenge-7---subsets-ii)
 - [Permutations II](#challenge-8---permutations-ii)
+- [Generate Parentheses](#challenge-9---generate-parentheses)
 
 ### HackerRank Easy
 
@@ -675,3 +676,6 @@ https://neetcode.io/problems/subsets-ii/question
 
 ## Challenge 8 - Permutations II
 https://neetcode.io/problems/permutations-ii/question
+
+## Challenge 9 - Generate Parentheses
+https://neetcode.io/problems/generate-parentheses/question
